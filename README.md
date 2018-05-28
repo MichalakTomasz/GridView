@@ -1,2 +1,2 @@
 # GridView
-JavaScript DataGridView withEvents
+JavaScript DataGridView with Events
